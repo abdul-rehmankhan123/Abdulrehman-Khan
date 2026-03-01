@@ -42,13 +42,15 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdul-rehmankhan123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdul-rehmankhan123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehmankhan123&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehmankhan123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
 
 </p>
 
@@ -71,4 +73,4 @@
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/abdul-rehmankhan123)
+
