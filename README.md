@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrehman Khan</h1>
 <h3 align="center">AI & Software Developer | Python | Generative AI | </h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Python+Programmer;FastAPI+Learner;Generative+AI+Explorer">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Python+Programmer;FastAPI;Generative+AI+Explorer">
 </p>
 
 ---
