@@ -44,23 +44,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdul-rehmankhan123&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehmankhan123&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=abdul-rehmankhan123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehmankhan123&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+</p>
 
----
-
-## 🌱 Currently Learning
-- Generative AI Applications
-- LangChain + Ollama
-- Advanced Backend APIs
-
----
 ---
 
 ## 📫 Connect With Me
