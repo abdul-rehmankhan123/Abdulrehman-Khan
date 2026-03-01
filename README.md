@@ -1,48 +1,71 @@
 <h1 align="center">Hi 👋, I'm Abdulrehman Khan</h1>
-<h3 align="center">AI & Software Developer | Python | Generative AI | </h3>
+<h3 align="center">🚀 AI & Software Developer | Python | Generative AI Enthusiast</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Python+Programmer;FastAPI;Generative+AI+Explorer">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Python+Programmer;FastAPI+Learner;LangChain+Explorer;Flutter+App+Developer">
 </p>
 
 ---
-## 🚀 About Me
-- 💻 Software Developer
-- 🤖 Learning Generative AI & LangChain
-- 🧠 Interested in AI & Machine Learning
-- 🌱 FastAPI & Flutter
 
-- ---
-## 🛠️ Skills
-- Python
-- OOP
-- FastAPI & Flask
-- HTML5, CSS3, JavaScript
-- SQL Database
-- Generative AI (Basic)
-- LangChain
-- Prompt Engineering
-
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![AI](https://img.shields.io/badge/AI-Learning-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-orange)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+## 🧠 About Me
+💻 Passionate Software Developer focused on AI-powered applications.  
+🤖 Exploring Generative AI, LangChain & LLM based systems.  
+🚀 Interested in building smart automation & modern applications.  
+🌱 FastAPI, Flutter & AI integrations.
 
 ---
 
-## 📂 Projects
-- 🚗 Indrive Clone App
-- 🔍 Price Lens Scanner
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Web & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### 🤖 AI & Tools
+![AI](https://img.shields.io/badge/Generative_AI-green?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Programming-purple?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+🚗 Indrive Clone App  
+🔍 Price Lens Scanner  
+🤖 AI Chat Applications using LLMs  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abdulrehman-rehmankhan123&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdul-rehmanKhan123&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehmanKhan123&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+- Generative AI Applications
+- LangChain + Ollama
+- Advanced Backend APIs
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/abdulrehman-khan-49168b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email: ak9082491@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/abdulrehman-khan-49168b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 📧 Email: ak9082491@gmail.com
+
+---
+
+⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
