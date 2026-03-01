@@ -61,11 +61,23 @@
 - Advanced Backend APIs
 
 ---
+---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/abdulrehman-khan-49168b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 📧 Email: ak9082491@gmail.com
+
+<p align="center">
+
+<a href="mailto:ak9082491@gmail">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdulrehman-khan-49168b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [YOUR_USERNAME](https://github.com/abdul-rehmankhan123)
